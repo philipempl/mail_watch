@@ -1,6 +1,6 @@
 
 # Mail Watch
-![](https://img.shields.io/github/stars/philipempl/mail_watch) ![](https://img.shields.io/github/forks/philipempl/mail_watch) ![]](https://img.shields.io/github/issues/philipempl/mail_watch) 
+![](https://img.shields.io/github/stars/philipempl/mail_watch) ![](https://img.shields.io/github/forks/philipempl/mail_watch) ![](https://img.shields.io/github/issues/philipempl/mail_watch) 
 
 Mail Watch makes it possible to save desired emails and their attachments in EML format using a black list and white list system. Thus, the most important invoices or even customer emails are always archived in the right place and correctly.
 Originally this script was developed for my own use, but since it was often asked for, I decided to share it with the public.
@@ -80,6 +80,7 @@ Within the specified folder, the structure is structured as follows:
 ---- [YEAR][MONTH][DAY]
 
 ---------- content.eml
+
 ---------- attachment.pdf
 
 
